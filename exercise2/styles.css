@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+  color: #fff;
+}
+
+body {
+  background-color: #222;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.form-example-image {
+  height: 300px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
